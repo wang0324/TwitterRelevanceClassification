@@ -1,2 +1,8 @@
 # TwitterRelevanceClassification
-Classifies if a tweet is relevant to a disaster or not
+
+## Abstract
+
+Twitter provides a platform for human expression and discussion. The creation of a NLP classification model may be able to categorize the relevance of  tweets. We developed multiple classification models, including a Neural Network, Logistic Regression, and Naive Bayes Classifier. Cross-validation of the model brought us over 80% accuracy on test data. 
+
+## Data
+Original dataset from [kaggle](https://www.kaggle.com/jannesklaas/disasters-on-social-media). Preprocessed CSVs and only used columns with the actual tweets and the label. 
