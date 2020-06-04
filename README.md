@@ -6,3 +6,8 @@ Twitter provides a platform for human expression and discussion. The creation of
 
 ## Data
 Original dataset from [kaggle](https://www.kaggle.com/jannesklaas/disasters-on-social-media). Preprocessed CSVs and only used columns with the actual tweets and the label. 
+
+## Authors
+- Kevin Wang [@wang0324](https://github.com/wang0324)
+- Richard Chen [@chenner45](https://github.com/chenner45)
+- Edmund Xin [@mxinburritos](https://github.com/mxinburritos)
